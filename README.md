@@ -3,7 +3,7 @@
 
 - 👨 Sou desenvolvedor front-end, graduado em sistemas de informação.
 - 💡 Possuo base sólida de conhecimentos em JS/TS, no momento estudo nodeJS. 
-- 💻 Algumas tecnologias que possuo conhecimentos: ReactJS, React Native, JavaScript, CSS3 e HTML.
+- 💻 Algumas tecnologias que possuo conhecimentos: ReactJS, React Native, JavaScript, TypeScript, CSS3 e HTML.
 - 🔥 Estou sempre em busca de novos desafios.
 
 <div align="center"><br>
